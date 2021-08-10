@@ -20,6 +20,6 @@ section {
   display: inline-block;
 }
 
-body {
+.grabbing {
   cursor: grabbing;
 }
